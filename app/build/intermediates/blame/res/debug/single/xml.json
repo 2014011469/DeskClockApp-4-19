@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\xml\\alarm_prefs.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\xml\\alarm_prefs.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\xml\\settings.xml"
+    }
+]

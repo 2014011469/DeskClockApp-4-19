@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64"
+    api-level="22"
+    density="420dpi"
+    format="7"
+    timestamp="1600729594714"
+    token="-6869752563073904801" >
+
+    <task
+        name="javac"
+        duration="4726" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="478" />
+    <task
+        name="verifier"
+        duration="116" />
+
+    <artifact
+        location="C:\Users\Administrator\AndroidStudioProjects\DeskClockApp-4-191\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="1600729594714" >
+        <artifact
+            location="C:\Users\Administrator\AndroidStudioProjects\DeskClockApp-4-191\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

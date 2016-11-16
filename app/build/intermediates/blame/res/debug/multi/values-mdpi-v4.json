@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\values-mdpi-v4\\values-mdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 12,
+                    "endColumn": 19,
+                    "endOffset": 413
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\values-mdpi\\alarm_background.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 659,
+                        "endLine": 28,
+                        "endColumn": 19,
+                        "endOffset": 1017
+                    }
+                }
+            }
+        ]
+    }
+]

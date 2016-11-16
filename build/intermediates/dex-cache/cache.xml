@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\DeskClockApp-4-191\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fbdbcc2d4c234292bf4f7fcc2765fddfad45aa24">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\DeskClockApp-4-191\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9c83e6ba8f2265e7960a2355686e79745f94dee0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\DeskClockApp-4-191\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="a3f22d804112dc35f5580b83dde36a34a2025a79">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\DeskClockApp-4-191\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_04f3d2cf2e9f50800f0079113314ee530a562fb0\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_background" translatable="false">
+        <item>alarm_bg1</item>
+        <item>alarm_bg2</item>
+        <item>alarm_bg3</item>
+        <item>alarm_bg4</item>
+        <item>alarm_bg5</item>
+        <item>alarm_bg6</item>
+        <item>alarm_bg7</item>
+        <item>alarm_bg8</item>
+        <item>alarm_bg9</item>
+    </string-array>
+</resources>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\incall_round_button.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable\\incall_round_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_strip_trans_left.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable\\btn_strip_trans_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_selector.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable\\clock_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_strip_trans_right.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable\\btn_strip_trans_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_alarm.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable\\add_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_strip_trans_middle.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable\\btn_strip_trans_middle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_clock_onoff.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable\\indicator_clock_onoff.xml"
+    }
+]

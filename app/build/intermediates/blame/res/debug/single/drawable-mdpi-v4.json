@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\alarm_small_bg2.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\alarm_small_bg2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_in_call_round_selected.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\btn_in_call_round_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_menu_set_alarmbg.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_set_alarmbg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dialog.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\dialog.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_small_background.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\ic_small_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\alarm_bg6.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\alarm_bg6.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\alarm_small_bg12.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\alarm_small_bg12.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_clock_alarm_on.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\ic_clock_alarm_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\alarm_bg1.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\alarm_bg1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_strip_trans_left_selected.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_left_selected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_clock_alarm_selected.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\ic_clock_alarm_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\alarm_small_bg3.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\alarm_small_bg3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\alarm_bg12.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\alarm_bg12.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\alarm_bg7.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\alarm_bg7.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_strip_trans_middle_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_middle_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dialog_divider_horizontal_light.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\dialog_divider_horizontal_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\clock_launcher.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\clock_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\alarm_bg2.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\alarm_bg2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\alarm_bg5.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\alarm_bg5.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\alarm_small_bg9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\alarm_small_bg9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\alarm_bg10.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\alarm_bg10.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\picture_frame.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\picture_frame.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_menu_alarms.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_alarms.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_strip_trans_left_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_left_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\alarm_bg8.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\alarm_bg8.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_in_call_round_normal.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\btn_in_call_round_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\alarm_small_bg7.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\alarm_small_bg7.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\alarm_small_bg4.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\alarm_small_bg4.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_in_call_round_disable_focused.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\btn_in_call_round_disable_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_alarm_setting.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\ic_alarm_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_strip_trans_right_normal.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_right_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\alarm_small_bg1.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\alarm_small_bg1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_strip_trans_right_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_right_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_clock_strip_desk_clock.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\ic_clock_strip_desk_clock.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_strip_trans_middle_normal.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_middle_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_in_call_round_disable.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\btn_in_call_round_disable.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_clock_alarm_off.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\ic_clock_alarm_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_selector_background_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\list_selector_background_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\alarm_small_bg5.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\alarm_small_bg5.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_clock_add_alarm.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\ic_clock_add_alarm.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_strip_trans_right_selected.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_right_selected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\alarm_bg9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\alarm_bg9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_menu_clock_face.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_clock_face.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\alarm_small_bg10.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\alarm_small_bg10.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\alarm_bg3.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\alarm_bg3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_clock_add_alarm_selected.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\ic_clock_add_alarm_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\alarm_bg4.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\alarm_bg4.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_dialog_time.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\ic_dialog_time.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\alarm_small_bg6.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\alarm_small_bg6.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_strip_trans_left_normal.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_left_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_background.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\ic_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\alarm_small_bg11.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\alarm_small_bg11.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_strip_trans_middle_selected.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\btn_strip_trans_middle_selected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_in_call_round_pressed.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\btn_in_call_round_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_indicator_on.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\ic_indicator_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_menu_add.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\alarm_bg11.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\alarm_bg11.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\stat_notify_alarm.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\stat_notify_alarm.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_indicator_off.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\ic_indicator_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\divider_vertical_dark.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\divider_vertical_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\alarm_small_bg8.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\DeskClockApp-4-191\\app\\src\\main\\res\\drawable-mdpi\\alarm_small_bg8.png"
+    }
+]
